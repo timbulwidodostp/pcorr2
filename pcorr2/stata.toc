@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p pcorr2 Partial and semipartial correlation coefficients Use pcorr2 With STATA 18
