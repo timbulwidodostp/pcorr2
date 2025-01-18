@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d pcorr2': Partial and semipartial correlation coefficients Use pcorr2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f pcorr2.ado
+f pcorr2.hlp
